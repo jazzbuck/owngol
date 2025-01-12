@@ -1,5 +1,6 @@
 # owngol
-Finance scenario simulation
+
+Use owngol to avoid own goals.
 
 ## Monte Carlo simulation for financial decision making
 
